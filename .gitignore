@@ -1,0 +1,21 @@
+# Ignore large files and model files
+*.tar.gz
+arbitrary-image-stylization-v1-tensorflow1-256-v2/
+
+# Ignore image outputs
+output1.png
+
+# Ignore Python caches
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore virtual environments (if any)
+venv/
+nst-venv/
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore system files
+.DS_Store
